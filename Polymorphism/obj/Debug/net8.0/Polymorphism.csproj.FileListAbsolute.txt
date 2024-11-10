@@ -1,0 +1,15 @@
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Polymorphism/obj/Debug/net8.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfo.cs
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Polymorphism/obj/Debug/net8.0/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Polymorphism/obj/Debug/net8.0/Polymorphism.sourcelink.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Polymorphism/bin/Debug/net8.0/Polymorphism
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Polymorphism/bin/Debug/net8.0/Polymorphism.deps.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Polymorphism/bin/Debug/net8.0/Polymorphism.runtimeconfig.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Polymorphism/bin/Debug/net8.0/Polymorphism.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Polymorphism/bin/Debug/net8.0/Polymorphism.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Polymorphism/obj/Debug/net8.0/Polymorphism.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Polymorphism/obj/Debug/net8.0/refint/Polymorphism.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Polymorphism/obj/Debug/net8.0/Polymorphism.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Polymorphism/obj/Debug/net8.0/Polymorphism.genruntimeconfig.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Polymorphism/obj/Debug/net8.0/ref/Polymorphism.dll
