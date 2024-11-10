@@ -1,0 +1,15 @@
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Interfaces/obj/Debug/net8.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfoInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfo.cs
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Interfaces/obj/Debug/net8.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Interfaces/obj/Debug/net8.0/Interfaces.sourcelink.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Interfaces/bin/Debug/net8.0/Interfaces
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Interfaces/bin/Debug/net8.0/Interfaces.deps.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Interfaces/bin/Debug/net8.0/Interfaces.runtimeconfig.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Interfaces/bin/Debug/net8.0/Interfaces.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Interfaces/bin/Debug/net8.0/Interfaces.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Interfaces/obj/Debug/net8.0/Interfaces.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Interfaces/obj/Debug/net8.0/refint/Interfaces.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Interfaces/obj/Debug/net8.0/Interfaces.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Interfaces/obj/Debug/net8.0/Interfaces.genruntimeconfig.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/Interfaces/obj/Debug/net8.0/ref/Interfaces.dll
