@@ -1,0 +1,15 @@
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/inheritance/obj/Debug/net8.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/inheritance/obj/Debug/net8.0/inheritance.AssemblyInfoInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/inheritance/obj/Debug/net8.0/inheritance.AssemblyInfo.cs
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/inheritance/obj/Debug/net8.0/inheritance.csproj.CoreCompileInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/inheritance/obj/Debug/net8.0/inheritance.sourcelink.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/inheritance/bin/Debug/net8.0/inheritance
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/inheritance/bin/Debug/net8.0/inheritance.deps.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/inheritance/bin/Debug/net8.0/inheritance.runtimeconfig.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/inheritance/bin/Debug/net8.0/inheritance.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/inheritance/bin/Debug/net8.0/inheritance.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/inheritance/obj/Debug/net8.0/inheritance.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/inheritance/obj/Debug/net8.0/refint/inheritance.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/inheritance/obj/Debug/net8.0/inheritance.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/inheritance/obj/Debug/net8.0/inheritance.genruntimeconfig.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-intermediate/inheritance/obj/Debug/net8.0/ref/inheritance.dll
